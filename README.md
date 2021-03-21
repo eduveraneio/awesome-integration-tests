@@ -17,7 +17,7 @@
   </a>
 </p>
 <h1 align="center">
-    <img alt="Stargazers" title="#awesome-integration-tests" src="https://miro.medium.com/max/1024/1*IgJcskfaabizwr41ZgjBpQ.png" width="80%" />
+    <img alt="Stargazers" title="#awesome-integration-tests" src="https://miro.medium.com/max/1024/1*IgJcskfaabizwr41ZgjBpQ.png" width="100%" />
 </h1>
 
 <h4 align="center"> 
