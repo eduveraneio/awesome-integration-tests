@@ -52,7 +52,7 @@ No primeiro, temos o nome do projeto, link e uma breve descrição. No segundo, 
 
 ## 🛠 Tecnologias
 
-Testes de integração com linguagem de programação JAVA foram extraídos para compor o repositório.
+Testes de integração com linguagem de programação Java, Python e Javascript foram extraídos para compor o repositório.
 
 ---
 
