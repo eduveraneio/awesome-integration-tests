@@ -36,7 +36,7 @@
 
 ♻️ Awesome Integration Tests é um repositório piloto com exemplos práticos de testes de integração. O objetivo é estimular estudantes e desenvolvedores acerca das boas práticas de programação, apresentando-lhes exemplos concretos e relevantes de testes de integração, com fácil acesso e localização.
 
-Este projeto foi elaborado durante trabalho de conclusão de curso por **Eduardo Oliveira** na [Universidade Federal de Minas Gerais (UFMG)](https://ufmg.br), em março de 2021, com orientação do professor Marco Túlio Valente.
+Este projeto foi elaborado durante trabalho de conclusão de curso por **Eduardo Oliveira** na [Universidade Federal de Minas Gerais (UFMG)](https://ufmg.br), em setembro de 2021, com orientação do professor Marco Túlio Valente.
 
 ---
 
